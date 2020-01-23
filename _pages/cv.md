@@ -25,8 +25,8 @@ Education
     * Signal Processing (EECS 351)
     * Data Structure and Algorithm (EECS 281)
     * Computer Architecture (EECS 370)
-    * Foundations of Computer Science (EECS 376)
-  * Courses taking: 
+    * Foundations of Computer Science (EECS 376)  
+  * Courses beging taken: 
     * Game Design (EECS 494)
     * Computer Vision (EECS 442)
     * Computer Security (EECS 388) (part-time, no credit taken)
