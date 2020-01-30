@@ -29,6 +29,7 @@ Education
   * Courses beging taken: 
     * Game Design (EECS 494)
     * Computer Vision (EECS 442)
+    * Natural Language Processing (EECS 598)
     * Computer Security (EECS 388) (part-time, no credit taken)
   
 * B.S. in Electrical and Computer Engineering
