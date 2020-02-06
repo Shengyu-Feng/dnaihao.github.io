@@ -7,7 +7,7 @@ end_date: 2020-02-01
 location: "Ann Arbor, Michigan"
 ---
 
-Test for unity game
+Below is the web deliverable version of the customized Legend of Zelda game we made. Press 4 to enter our customized level. Press 1 to enter/exit godmode. Try to figure out how you can switch weapons yourself!
 
 <!-- <!DOCTYPE html> -->
 <!-- <html lang="en-us"> -->
