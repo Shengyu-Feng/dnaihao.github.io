@@ -24,7 +24,7 @@ Below is the web deliverable version of the customized Legend of Zelda game we m
     </script>
   </head>
   <body>
-    <div class="webgl-content">
+    <div class="webgl-content" style="width: 600px; height: 500px">
       <div id="unityContainer" style="width: 1025px; height: 835px"></div>
       <div class="footer">
         <div class="webgl-logo"></div>
