@@ -20,7 +20,7 @@ Test for unity game
     <script src="../_pages/legend-of-zelda/TemplateData/UnityProgress.js"></script>
     <script src="../_pages/legend-of-zelda/Build/UnityLoader.js"></script>
     <script>
-      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/p1-webgl.json", {onProgress: UnityProgress});
+      var unityInstance = UnityLoader.instantiate("unityContainer", "../_pages/legend-of-zelda/Build/p1-webgl.json", {onProgress: UnityProgress});
     </script>
   </head>
   <body>
