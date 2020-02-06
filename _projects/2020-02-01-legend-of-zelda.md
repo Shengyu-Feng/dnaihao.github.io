@@ -9,6 +9,7 @@ location: "Ann Arbor, Michigan"
 
 Test for unity game
 
+<!DOCTYPE html>
 <html lang="en-us">
   <head>
     <meta charset="utf-8">
