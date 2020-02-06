@@ -6,7 +6,13 @@ start_date: 2020-01-01
 end_date: 2020-02-01
 location: "Ann Arbor, Michigan"
 ---
-
+<img style="float: right;" src='/images/zelda-start.png' width="50%">
 Below is the link to the web deliverable version of the customized Legend of Zelda game we made. Press 4 to enter our customized level. Press 1 to enter/exit godmode. Try to figure out how you can switch weapons and enjoy the game yourself!
 
-[Game Link](../_pages/legend-of-zelda/zelda.html)
+Here is what you will become in the customized level:
+<img style="float: right;" src='/images/cutomized_chess.png' width="50%">
+
+And in godmode, you will get infinite collectabls, and will never get hurt by enemies.
+<img style="float: right;" src='/images/godmode.png' width="50%">
+
+Try our customized legend of zelda out at: [Game Link](../_pages/legend-of-zelda/zelda.html)
