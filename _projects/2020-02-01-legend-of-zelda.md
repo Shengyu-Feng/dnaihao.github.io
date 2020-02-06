@@ -9,8 +9,8 @@ location: "Ann Arbor, Michigan"
 
 Test for unity game
 
-<!DOCTYPE html>
-<html lang="en-us">
+<!-- <!DOCTYPE html> -->
+<!-- <html lang="en-us"> -->
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -33,4 +33,4 @@ Test for unity game
       </div>
     </div>
   </body>
-</html>
+<!-- </html> -->
