@@ -49,7 +49,7 @@ Work experience
   * Duderstadt Center, the University of Michigan
   * Duties include:
     * Help with trouble-shooting softwares
-    * mentor peer students about facilities we provide at library
+    * Mentor peer students about facilities we provide at library
   
 * May, 2019 - August, 2019: Participate Machine Learning Reading Group
   * Duties include:
@@ -66,9 +66,9 @@ Work experience
   
 Skills
 ======
-* Programming language: C/C++, Python, Javascript
+* Programming language: C/C++, Python, C#, Javascript
   
-* Tools: Latex, Git, Selenium, Socket
+* Tools: Latex, Git, Selenium, Socket, Unity
   
 Service and leadership
 ======
