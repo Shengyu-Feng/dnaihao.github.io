@@ -26,7 +26,7 @@ Education
     * Data Structure and Algorithm (EECS 281)
     * Computer Architecture (EECS 370)
     * Foundations of Computer Science (EECS 376)  
-  * Courses beging taken: 
+  * Courses being taken: 
     * Game Design (EECS 494)
     * Computer Vision (EECS 442)
     * Natural Language Processing (EECS 598)
