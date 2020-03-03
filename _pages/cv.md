@@ -38,12 +38,6 @@ Education
 
 Work experience
 ======
-* Octobor, 2019 - Present: Research assistant
-  * UMSec lab, the University of Michigan
-  * Duties include:
-    * Implementing crawlers for multiple Android app markets.
-    * Implementing program analyzing permissions for apps from different countries.
-  * Supervised by: [professor Roya Ensafi](https://ensa.fi/)
   
 * Octobor, 2019 - Present: Computer Consultant
   * Duderstadt Center, the University of Michigan
