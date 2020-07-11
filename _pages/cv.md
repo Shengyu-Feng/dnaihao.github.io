@@ -19,17 +19,7 @@ Education
   * Time: 2018 - Present 
   * GPA: 3.972/4.000
   * Courses taken: 
-    * Operating System (EECS 482 + EECS 498)
-    * Machine Learning (EECS 445)
-    * Database Management System (EECS 484)
-    * Signal Processing (EECS 351)
-    * Data Structure and Algorithm (EECS 281)
-    * Computer Architecture (EECS 370)
-    * Foundations of Computer Science (EECS 376)  
-  * Courses being taken: 
-    * Game Design (EECS 494)
-    * Computer Vision (EECS 442)
-    * Natural Language Processing (EECS 598)
+    * Operating System, Machine Learning, Database Management System, Signal Processing, Data Structure and Algorithm, Computer Architecture, Foundations of Computer Scienc, Game Design, Computer Vision, Natural Language Processing 
   
 * B.S. in Electrical and Computer Engineering
   * Time: 2016 - 2018
@@ -38,10 +28,16 @@ Education
 
 Work experience
 ======
+* May, 2020 - Present: Teaching Assistant for Electromagnetics I 
+  * Joint Institute, Shanghai Jiao Tong University, with professor [Nana Liu](https://twitter.com/nana__liu?lang=en)
+  * Lead discussion class every week
+  * Help instructor compile homework, quizzes and exam papers
+  * Grade homework, quizzes and exam papers
   
-* Octobor, 2019 - Present: Computer Consultant
+* Octobor, 2019 - July, 2020: Computer Consultant
   * Duderstadt Center, the University of Michigan
   * Duties include:
+    * Help construct site for Groundworks
     * Help with trouble-shooting softwares
     * Mentor peer students about facilities we provide at library
   
