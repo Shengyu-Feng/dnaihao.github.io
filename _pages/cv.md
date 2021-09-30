@@ -71,5 +71,3 @@ Service and Leadership
 
 * Volunteered teaching at Sanhe, Yunan
   * Time: December, 2017 - Janurary, 2018
-  * Duties include:
-    * Led two classes of a hundred and twenty middle school students
