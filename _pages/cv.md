@@ -15,55 +15,61 @@ redirect_from:
 
 Education
 ======
+* M.S.E. in Computer Science
+  * Time: 2020 - Present
+  <!-- * GPA:  -->
+  <!-- *  -->
+
 * B.S. in Computer Science 
-  * Time: 2018 - Present 
-  * GPA: 3.972/4.000
-  * Courses taken: 
-    * Operating System, Machine Learning, Database Management System, Signal Processing, Data Structure and Algorithm, Computer Architecture, Foundations of Computer Scienc, Game Design, Computer Vision, Natural Language Processing 
+  * Time: 2018 - 2020 
+  <!-- * GPA: 3.972/4.000 -->
+  <!-- * Courses taken: 
+    * Operating System, Machine Learning, Database Management System, Signal Processing, Data Structure and Algorithm, Computer Architecture, Foundations of Computer Scienc, Game Design, Computer Vision, Natural Language Processing  -->
   
 * B.S. in Electrical and Computer Engineering
   * Time: 2016 - 2018
-  * GPA: 3.626/4.000
+  <!-- * GPA: 3.626/4.000 -->
 
 
-Work experience
+Work Experience
 ======
-* May, 2020 - Present: Teaching Assistant for Electromagnetics I 
+* May 2021 - Present: Research Assistant
+  * University of Michigan, with professor [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/)
+
+* May 2020 - Present: Research Assistant
+  * Penn State University, with professor [Rui Zhang](https://ryanzhumich.github.io/index.html)
+
+* May, 2020 - Aug 2020: Teaching Assistant for Electromagnetics I 
   * Joint Institute, Shanghai Jiao Tong University, with professor [Nana Liu](https://twitter.com/nana__liu?lang=en)
-  * Lead discussion class every week
-  * Help instructor compile homework, quizzes and exam papers
-  * Grade homework, quizzes and exam papers
-  
-* Octobor, 2019 - July, 2020: Computer Consultant
-  * Duderstadt Center, the University of Michigan
-  * Duties include:
-    * Help construct site for Groundworks
-    * Help with trouble-shooting softwares
-    * Mentor peer students about facilities we provide at library
-  
-* May, 2019 - August, 2019: Participate Machine Learning Reading Group
-  * Duties include:
-    * Read papers about prediction market
-    * Wrote a [program](https://github.com/dnaihao/Simulation-Prediction-Market) that simulates prediction market based on Bernoulli Distribution
-    * [Summary report](https://github.com/shineyruan/Reading-Group-Kutty-Meetings/blob/master/summary-paper.pdf)
 
 * May, 2019 - August, 2019: Software Engineer Intern
   * Deepfield, Nokia, Ann Arbor
-  * Projects include:
-    * Developed traffic generator (ICMP/NTP monlist) for internal platform (tools we used to deploy on AWS cloud), including the tool and its corresponding web page.
-    * Configured virtual Nokia router on AWS cloud.
-    * Maintained internal platform (tools we used to deploy on AWS cloud)
+
   
-Skills
+
+Publications
 ======
-* Programming language: C/C++, Python, C#, Javascript
+* Domain Adaptation for Emotional State Predictionon WESAD Dataset  
+  * Naihao Deng<sup>*</sup>, Yifan Li<sup>*</sup>, Shijie Qu<sup>*</sup>. (* = equal contribution)
+  * submitted to [Bridging the Gap: From Machine Learning Research to Clinical Practice workshop at NeuralIPS 2021](https://sites.google.com/g.harvard.edu/research2clinics/call-for-papers).
+
+* Prefix-to-SQL: Text-to-SQL Generation from Incomplete User Questions  
+  * Naihao Deng, Shuaichen Chang, Peng Shi, Tao Yu, Rui Zhang.
+  * arxiv [[paper]](https://arxiv.org/abs/2109.13066) 
+
+* AutoSQL: Question Auto-Completion for Text-to-SQL (draft version of Prefix-to-SQL: Text-to-SQL Generation from Incomplete User Questions)
+  * Naihao Deng<sup>*</sup>, Shuaichen Chang<sup>*</sup>, Peng Shi, Tao Yu, Rui Zhang. (* = equal contribution)
+  * [The First Workshop on Natural Language Processing for Programming at ACL-IJCNLP 2021](https://nlp4prog.github.io/2021/cfp/). 
+
+
   
-* Tools: Latex, Git, Selenium, Socket, Unity
-  
-Service and leadership
+Service and Leadership
 ======
+* Session chair for [Engineering Research Symposium](https://ers.engin.umich.edu/)
+  * Time: Aug, 2021 - Present
+
 * Volunteered at Michigan Concession for the football game
-  * Time: September 7th, 2019
+  * Time: September, 2019
 
 * Volunteered teaching at Sanhe, Yunan
   * Time: December, 2017 - Janurary, 2018
