@@ -50,7 +50,7 @@ Work Experience
 Publications
 ======
 * Domain Adaptation for Emotional State Predictionon WESAD Dataset  
-  * Naihao Deng<sup>*</sup>, Yifan Li<sup>*</sup>, Shijie Qu<sup>*</sup>. (* = equal contribution)
+  * Naihao Deng<sup>\*</sup>, Yifan Li<sup>\*</sup>, Shijie Qu<sup>\*</sup>. (\* = equal contribution)
   * submitted to [Bridging the Gap: From Machine Learning Research to Clinical Practice workshop at NeuralIPS 2021](https://sites.google.com/g.harvard.edu/research2clinics/call-for-papers).
 
 * Prefix-to-SQL: Text-to-SQL Generation from Incomplete User Questions  
@@ -58,7 +58,7 @@ Publications
   * arxiv [[paper]](https://arxiv.org/abs/2109.13066) 
 
 * AutoSQL: Question Auto-Completion for Text-to-SQL (draft version of Prefix-to-SQL: Text-to-SQL Generation from Incomplete User Questions)
-  * Naihao Deng<sup>*</sup>, Shuaichen Chang<sup>*</sup>, Peng Shi, Tao Yu, Rui Zhang. (* = equal contribution)
+  * Naihao Deng<sup>\*</sup>, Shuaichen Chang<sup>\*</sup>, Peng Shi, Tao Yu, Rui Zhang. (\* = equal contribution)
   * [The First Workshop on Natural Language Processing for Programming at ACL-IJCNLP 2021](https://nlp4prog.github.io/2021/cfp/). 
 
 
