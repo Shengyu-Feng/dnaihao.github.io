@@ -23,8 +23,6 @@ Education
 * B.S. in Computer Science 
   * Time: 2018 - 2020 
   <!-- * GPA: 3.972/4.000 -->
-  <!-- * Courses taken: 
-    * Operating System, Machine Learning, Database Management System, Signal Processing, Data Structure and Algorithm, Computer Architecture, Foundations of Computer Scienc, Game Design, Computer Vision, Natural Language Processing  -->
   
 * B.S. in Electrical and Computer Engineering
   * Time: 2016 - 2018
