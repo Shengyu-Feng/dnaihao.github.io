@@ -47,10 +47,6 @@ Work Experience
 
 Publications
 ======
-* Domain Adaptation for Emotional State Predictionon WESAD Dataset  
-  * Naihao Deng<sup>\*</sup>, Yifan Li<sup>\*</sup>, Shijie Qu<sup>\*</sup>. (\* = equal contribution)
-  * submitted to [Bridging the Gap: From Machine Learning Research to Clinical Practice workshop at NeuralIPS 2021](https://sites.google.com/g.harvard.edu/research2clinics/call-for-papers).
-
 * Prefix-to-SQL: Text-to-SQL Generation from Incomplete User Questions  
   * Naihao Deng, Shuaichen Chang, Peng Shi, Tao Yu, Rui Zhang.
   * arxiv [[paper]](https://arxiv.org/abs/2109.13066) 
